@@ -7,10 +7,12 @@ img {
   width: 50%;
 }
 
-h1 {
+p {
   color: #ffffff:
 }
 
-p {
-  color: #ffffff:
+h1 {
+  font-size: 300%;
+  color: white;
+  letter-spacing: 3px;
 }
