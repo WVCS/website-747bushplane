@@ -1,8 +1,35 @@
-
 body {
   background-color: #0077b6;
 }
-
+title{
+  top: 10;
+}
+ul{
+  list-stlye-type: none;
+  background-color: #111;
+  width: 200%;
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+li a:hover{
+  display: block;
+  font-size: 150%;
+  color: #0077b6;
+  text-decoration: none;
+  padding: 20px 50px;
+}
 img {
   width: 50%;
 }
